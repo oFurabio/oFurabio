@@ -7,7 +7,7 @@
 
 <div align="center">
   <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api?username=oFurabio&show_icons=true&theme=dark"/>
-  <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFurabio&layout=compact&langs_count=7&theme=dark"/>
+  <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFurabio&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div align="center">
@@ -24,9 +24,9 @@
 
 ## Meus hobbies:
 
-- 👨‍👩‍👦 Passar o tempo em família
-- 🏋️‍♂️ Praticar musculação
+- 💑🏾 Passar tempo com minha noiva
 - 🎮 Jogar com amigos
+- 💬 Aprender línguas novas
 - 🎸 Escutar música
 - 📚 Ler 
 - 📺 Assistir séries, filmes e vídeos sobre dev
