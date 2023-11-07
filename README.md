@@ -12,10 +12,10 @@
 
 <div align="center">
   <div><br>
-    <img align="center" alt="Java" height="30" width="40" src="assets/Java2.svg"/>
-    <img align="center" alt="Spring" height="30" width="40" src="assets/Spring.svg"/>
     <img align="center" alt="JavaScript" height="30" width="40" src="assets/JavaScript.svg">
     <img align="center" alt="TypeScript" height="30" width="40"src="assets/TypeScript.svg"/>
+    <img align="center" alt="Java" height="45" width="45" src="assets/Java2.svg"/>
+    <img align="center" alt="Spring" height="30" width="40" src="assets/Spring.svg"/>
     <img align="center" alt="React" height="30" width="40" src="assets/React.svg"/>
     <img align="center" alt="Unity" height="30" width="40" src="assets/Unity.svg"/>
     <img align="center" alt="CSharp" height="30" width="40" src="assets/CSharp.svg"/>
