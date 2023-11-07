@@ -41,7 +41,8 @@
 - Categoria: Jogo Digital 2D
 - Jogo 2D.
 - Projeto em construção 🏗️
-- [Repositório](https://github.com/Elias-Moura/alura-studies)
+- [Repositório](https://github.com/oFurabio/ProjetoAtomo)
+- Clique para [Jogar](https://ofurabio.itch.io/projeto-atomo)
 - Tecnologias abordadas: React, Typescript, SCSS, CSS Modules.
 
 ### Blog Pessoal 🖊️
