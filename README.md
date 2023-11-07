@@ -1,12 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d90c7&height=100&section=header"/>
 <div align="center">
-  <h1>Bem vindo(a) ao meu perfil.</h1>
+  <h1>Bem vinde ao meu perfil!</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a1de&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Flávio+Farias.;Apaixonado+por+jogos+e+tecnologia!;E+especialista+em+joguinhos.:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a1de&size=30&center=true&vCenter=true&width=1000&lines=Olá,eu+sou+o+Flávio+Farias.;Apaixonado+por+jogos+e+tecnologia!;Especialista+em+joguinhos.:%29)](https://git.io/typing-svg)
 
 <div align="center">
-  <img width=49% height="195px" src="https://github-readme-stats.vercel.app/api?username=oFurabio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  ![Flávio Status](https://github-readme-stats.vercel.app/api?username=oFurabio&show_icons=true)
   <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oFurabio&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
