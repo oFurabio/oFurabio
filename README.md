@@ -3,7 +3,7 @@
   <h1>Bem vinde ao meu perfil!</h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a1de&size=30&center=true&vCenter=true&width=1000&lines=Olá,eu+sou+o+Flávio+Farias.;Apaixonado+por+jogos+e+tecnologia!;Especialista+em+joguinhos.:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00a1de&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Flávio+Farias.;Apaixonado+por+desenvolvimento+e+tecnologia!;Também+especialista+em+joguinhos+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <img width=41% height="195px" src="https://github-readme-stats.vercel.app/api?username=oFurabio&show_icons=true&theme=dark"/>
@@ -12,12 +12,13 @@
 
 <div align="center">
   <div><br>
-    <img align="center" alt="Java" height="30" width="40" src="assets/Java.svg"/>
+    <img align="center" alt="Java" height="30" width="40" src="assets/Java2.svg"/>
     <img align="center" alt="Spring" height="30" width="40" src="assets/Spring.svg"/>
     <img align="center" alt="JavaScript" height="30" width="40" src="assets/JavaScript.svg">
     <img align="center" alt="TypeScript" height="30" width="40"src="assets/TypeScript.svg"/>
     <img align="center" alt="React" height="30" width="40" src="assets/React.svg"/>
-    <img align="center" alt="Unity" height="30" width="30" src="assets/Unity.svg"/>
+    <img align="center" alt="Unity" height="30" width="40" src="assets/Unity.svg"/>
+    <img align="center" alt="CSharp" height="30" width="40" src="assets/CSharp.svg"/>
   </div>
 </div>
 
