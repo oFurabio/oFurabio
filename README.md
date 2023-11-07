@@ -12,7 +12,7 @@
 
 <div align="center">
   <div><br>
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
+    <img align="center" alt="Java" height="30" width="40" src="assets/Java.svg"/>
     <img align="center" alt="Spring" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="typescript" height="30" width="40"src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
