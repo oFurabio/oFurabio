@@ -13,11 +13,11 @@
 <div align="center">
   <div><br>
     <img align="center" alt="Java" height="30" width="40" src="assets/Java.svg"/>
-    <img align="center" alt="Spring" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="typescript" height="30" width="40"src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
-    <img align="center" alt="React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-    <img align="center" alt="Unity" height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
+    <img align="center" alt="Spring" height="30" width="40" src="assets/Spring.svg"/>
+    <img align="center" alt="JavaScript" height="30" width="40" src="assets/JavaScript.svg">
+    <img align="center" alt="TypeScript" height="30" width="40"src="assets/TypeScript.svg"/>
+    <img align="center" alt="React" height="30" width="40" src="assets/React.svg"/>
+    <img align="center" alt="Unity" height="30" width="30" src="assets/Unity.svg"/>
   </div>
 </div>
 
@@ -39,24 +39,23 @@
 ## Projetos em destaque⚡:
 ### Projeto: Átomo 🎮
 - Categoria: Jogo Digital 2D
-- Jogo 2D.
-- Projeto em construção 🏗️
+- Jogo 2D Shoot 'em up com elementos de Bullet Hell.
 - [Repositório](https://github.com/oFurabio/ProjetoAtomo)
-- Clique para [Jogar](https://ofurabio.itch.io/projeto-atomo)
-- Tecnologias abordadas: React, Typescript, SCSS, CSS Modules.
+- Clique [AQUI](https://ofurabio.itch.io/projeto-atomo) para jogar.
+- Tecnologias abordadas: Unity, C#, Pixelart, POO.
 
 ### Blog Pessoal 🖊️
 - Categoria: Back-end.
-- Back-end Em Java e Spring Boot.
+- Back-end em Java e Spring Boot.
 - Projeto em construção 🏗️
-- [Repositório](https://github.com/Elias-Moura/blog-java)
+- [Repositório](https://github.com/oFurabio/BlogPessoal)
 - Tecnologias abordadas: Java, Spring Boot, MySQL.
 - Boas práticas: DTO, Separation of Concerns, SOLID.
 
 <h2 align="center">Meus contatos</h2>
 
 <div align="center"> 
-  <a href = "mailto:eliasmoura.py@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/elias-s-moura" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:fs.flaviosilv4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/flaviosfarias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d90c7&height=100&section=footer"/>
