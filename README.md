@@ -12,12 +12,12 @@
 
 <div align="center">
   <div><br>
-    <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg" alt="Java"/>
+    <img align="center" alt="Java" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/java-14.svg"/>
     <img align="center" alt="Spring" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/spring-3.svg"/>
     <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="typescript" height="30" width="40"src="https://cdn.worldvectorlogo.com/logos/typescript.svg"/>
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react.js" height="30" width="40"/>
+    <img align="center" alt="React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+    <img align="center" alt="Unity" height="30" width="30" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
   </div>
 </div>
 
