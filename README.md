@@ -45,12 +45,13 @@
 - Clique [AQUI](https://ofurabio.itch.io/projeto-atomo) para jogar.
 - Tecnologias abordadas: Unity, C#, Pixelart, POO.
 
-### Blog Pessoal 🖊️
-- Categoria: Back-end.
+### MercaDela 🖊️
+- Categoria: e-Commerce.
 - Back-end em Java e Spring Boot.
-- Projeto em construção 🏗️
-- [Repositório](https://github.com/oFurabio/BlogPessoal)
-- Tecnologias abordadas: Java, Spring Boot, MySQL.
+- Front-end em React e TypeScript (Tailwind CSS).
+- Acesse [AQUI!](mercadela-front.vercel.app)
+- [Repositório](https://github.com/Grupo4-Generation)
+- Tecnologias abordadas: Java, Spring Boot, MySQL, TypeScript.
 - Boas práticas: DTO, Separation of Concerns, SOLID.
 
 <h2 align="center">Meus contatos</h2>
