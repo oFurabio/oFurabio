@@ -49,7 +49,7 @@
 - Categoria: e-Commerce.
 - Back-end em Java e Spring Boot.
 - Front-end em React e TypeScript (Tailwind CSS).
-- Acesse [AQUI!](mercadela-front.vercel.app)
+- Acesse [AQUI!](https://mercadela-front.vercel.app)
 - [Repositório](https://github.com/Grupo4-Generation)
 - Tecnologias abordadas: Java, Spring Boot, MySQL, TypeScript.
 - Boas práticas: DTO, Separation of Concerns, SOLID.
